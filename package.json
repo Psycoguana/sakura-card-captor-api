@@ -1,0 +1,18 @@
+{
+  "name": "Sakura-Card-Captor-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/handlers/cardHandler.js",
+  "scripts": {
+    "start": "nodemon src/handlers/cardHandler.js"
+  },
+  "keywords": [],
+  "author": "Psycoguana",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}

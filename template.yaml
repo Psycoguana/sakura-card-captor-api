@@ -1,0 +1,45 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: >-
+    aws-sakura
+
+Transform:
+    - AWS::Serverless-2016-10-31
+
+Resources:
+    getAllCardsFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            Handler: src/handlers/cardHandler.getAllCards
+            Runtime: nodejs18.x
+            Architectures:
+                - x86_64
+            MemorySize: 128
+            Timeout: 100
+            Description: HTTP GET Method to get all Sakura Card Captor cards.
+            Events:
+                Api:
+                    Type: Api
+                    Properties:
+                        Path: /cards
+                        Method: GET
+    getCardFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            Handler: src/handlers/cardHandler.getCard
+            Runtime: nodejs18.x
+            Architectures:
+                - x86_64
+            MemorySize: 128
+            Timeout: 100
+            Description: HTTP GET Method to get a single Sakura Card Captor card by ID.
+            Events:
+                Api:
+                    Type: Api
+                    Properties:
+                        Path: /card
+                        Method: GET
+
+Outputs:
+    WebEndpoint:
+        Description: 'API Gateway endpoint URL for Prod stage'
+        Value: !Sub 'https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/'

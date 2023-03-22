@@ -1,0 +1,1009 @@
+[
+  {
+    "id": 1,
+    "title": "The Arrow",
+    "desc": "The Arrow is a Clow Card with the power to fire a volley of magic arrows. It is under The Firey under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/80/ClowArrow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/a9/SakuraArrow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u77e2",
+    "katakana": "\u30a2\u30ed\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 2,
+    "title": "The Big",
+    "desc": "The Big is a Clow Card with the power to grow creatures and objects in size. It is aligned under The Light card and under the power of the Sun, Cerberus, and Western Magic, as is its opposing card, The Little.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/8b/ClowBig.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/3/30/SakuraBig.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5927",
+    "katakana": "\u30d3\u30b0",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 3,
+    "title": "The Bubbles",
+    "desc": "The Bubbles  is one of the fifty-two Clow Cards in the anime. The Bubbles is under The Watery.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/8d/ClowBubbles.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/0/02/SakuraBubbles.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6ce1",
+    "katakana": "\u30d0\u30d6\u30eb",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 4,
+    "title": "The Change",
+    "desc": "The Change is a Clow Card with the power to cause two people to switch bodies. It is under The Dark and under the power of the moon, Yue, and Eastern magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/de/ClowChange.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/21/SakuraChange.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u66ff",
+    "katakana": "\u30c1\u30a7\u30fc\u30f3\u30b8",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": "Evasive"
+  },
+  {
+    "id": 5,
+    "title": "The Cloud",
+    "desc": "The Cloud is one of the fifty-two Clow Cards in the anime. The Cloud is under The Watery.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/a2/ClowCloud.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/ef/SakuraCloud.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u96f2",
+    "katakana": "\u30af\u30e9\u30a6\u30c9",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 6,
+    "title": "The Create",
+    "desc": "The Create is a Clow Card with the power to bring creatures or objects into existence. It is aligned under The Light and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/9/9c/ClowCreate.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/7/75/SakuraCreate.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5275",
+    "katakana": "\u30af\u30ea\u30a8\u30a4\u30c8",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 7,
+    "title": "The Dark",
+    "desc": "The Dark is a Clow Card with the power to control darkness. Alongside The Light, it is one of the foremost of the Clow Cards, and falls under the power of the Moon, Yue and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/56/ClowDark.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/aa/SakuraDark.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u95c7",
+    "katakana": "\u30c0\u30fc\u30af",
+    "sign": "Moon",
+    "hierarchy": "N/A",
+    "magicType": "Eastern Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 8,
+    "title": "The Dash",
+    "desc": "The Dash is one of the fifty-two Clow Cards in the anime. The Dash is aligned under The Windy.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/2c/ClowDash.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/0/00/SakuraDash.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u99c6",
+    "katakana": "\u30c0\u30c3\u30b7\u30e5",
+    "sign": "Moon",
+    "hierarchy": "The Windy",
+    "magicType": "Eastern Magic",
+    "temperament": "Evasive"
+  },
+  {
+    "id": 9,
+    "title": "The Dream",
+    "desc": "The Dream is a Clow Card with the power to manipulate dreams. It is under The Dark, the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/88/ClowDream.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/f/f5/SakuraDream.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5922",
+    "katakana": "\u30c9\u30ea\u30fc\u30e0",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": "Elusive"
+  },
+  {
+    "id": 10,
+    "title": "The Earthy",
+    "desc": "The Earthy is a Clow Card with the power to control and manipulate earth. It is one of the four elemental cards, and as such it is one of the most powerful. Earthy falls under the power of the Sun, Cerberus and under Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/7/72/ClowEarthy.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/9/94/SakuraEarthy.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5730",
+    "katakana": "\u30a2\u30fc\u30b7\u30fc",
+    "sign": "Sun",
+    "hierarchy": "N/A",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive; destructive"
+  },
+  {
+    "id": 11,
+    "title": "The Erase",
+    "desc": "The Erase is a Clow Card with the power to erase anything from existence. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/57/ClowErase.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/de/SakuraErase.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6d88",
+    "katakana": "\u30a8\u30ec\u30fc\u30ba",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 12,
+    "title": "The Fight",
+    "desc": "The Fight is a Clow Card with the power to grant its user heightened fighting abilities. It is aligned under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/16/ClowFight.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/4/46/SakuraFight.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u95d8",
+    "katakana": "\u30d5\u30a1\u30a4\u30c8",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 13,
+    "title": "The Firey",
+    "desc": "The Firey is a Clow Card with the power to control and manipulate fire. It is one of the four elemental cards, and as such it is one of the most powerful. The Firey falls under the power of the Sun, Cerberus and Western Magic",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/12/ClowFirey.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/9/97/SakuraFirey.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u706b",
+    "katakana": "\u30d5\u30a1\u30a4\u30fc\u30ea\u30fc",
+    "sign": "Sun",
+    "hierarchy": "N/A",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive; destructive"
+  },
+  {
+    "id": 14,
+    "title": "The Float",
+    "desc": "The Float is one of the fifty-two Clow Cards in the anime. Float is under Windy.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/26/ClowFloat.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/61/SakuraFloat.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6d6e",
+    "katakana": null,
+    "sign": "Moon",
+    "hierarchy": "\u30d5\u30ed\u30fc\u30c8",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 15,
+    "title": "The Flower",
+    "desc": "The Flower is a Clow Card with the power to manifest all varieties of flowers. It is aligned under The Earthy and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/da/ClowFlower.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/6f/SakuraFlower.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u82b1",
+    "katakana": "\u30d5\u30e9\u30ef\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 16,
+    "title": "The Fly",
+    "desc": "The Fly is a Clow Cards with the power to grant its user the ability of flight. in the anime and is also part of the original nineteen cards from the manga series. It is under The Windy and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/3/3c/ClowFly.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/51/SakuraFly.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u7fd4",
+    "katakana": "\u30d5\u30e9\u30a4",
+    "sign": "Moon",
+    "hierarchy": "The Windy",
+    "magicType": "Eastern Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 17,
+    "title": "The Freeze",
+    "desc": "The Freeze is one of the fifty-two Clow Cards in the anime. It is aligned under the Watery card.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/0/00/ClowFreeze.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/a8/SakuraFreeze.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u51cd",
+    "katakana": "\u30d5\u30ea\u30fc\u30ba",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 18,
+    "title": "The Glow",
+    "desc": "The Glow is a Clow Card with the power to create tiny glowing lights. It is aligned under The Light and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/b/b4/ClowGlow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/88/SakuraGlow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u706f",
+    "katakana": "\u30b0\u30ed\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 19,
+    "title": "The Illusion",
+    "desc": "The Illusion is a Clow Card with the power to create illusions. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/2d/ClowIllusion.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/25/SakuraIllusion.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5e7b",
+    "katakana": "\u30a4\u30eb\u30fc\u30b8\u30e7\u30f3",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 20,
+    "title": "The Jump",
+    "desc": "The Jump is one of the fifty-two Clow Cards in the anime and is also part of the original nineteen cards from the manga series. It is under The Windy and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/f/ff/ClowJump.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/58/SakuraJump.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u8df3",
+    "katakana": "\u30b8\u30e3\u30f3\u30d7",
+    "sign": "Moon",
+    "hierarchy": "Mischievous; evasive",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 21,
+    "title": "The Libra",
+    "desc": "The Libra is a Clow Card with the power to detect whether a person is lying. It is under The Earthy and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/7/75/ClowLibra.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/6f/SakuraLibra.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u79e4",
+    "katakana": "\u30e9\u30a4\u30d6\u30e9",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": null
+  },
+  {
+    "id": 22,
+    "title": "The Light",
+    "desc": "The Light is a Clow Cards with the power to control light. Alongside The Dark, it is one of the foremost of the Clow Cards, and falls under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/66/ClowLight.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/ad/SakuraLight.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5149",
+    "katakana": "\u30e9\u30a4\u30c8",
+    "sign": "Sun",
+    "hierarchy": "N/A",
+    "magicType": "Western Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 23,
+    "title": "The Little",
+    "desc": "The Little is a Clow Card with the power to shrink creatures and objects to miniature size. It is aligned under The Light and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/c/cd/ClowLittle.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/db/SakuraLittle.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5c0f",
+    "katakana": "\u30ea\u30bf\u30eb",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": "Mischievous; evasive"
+  },
+  {
+    "id": 24,
+    "title": "The Lock",
+    "desc": "The Lock is a Clow Card with the power to magically lock anything. It is aligned under The Earthy and under the power of the Sun, Cerberus, and Western Magic",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/d8/ClowLock.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/0/08/SakuraLock.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u9320",
+    "katakana": "\u30ed\u30c3\u30af",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": null
+  },
+  {
+    "id": 25,
+    "title": "The Loop",
+    "desc": "The Loop is a Clow Card with the power to manipulate space and connect different locations. It is aligned under The Earthy and under the power of the Sun, Cerberus, and Western Magic",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/1c/ClowLoop.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/9/9f/SakuraLoop.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u8f2a",
+    "katakana": "\u30eb\u30fc\u30d7",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": "Elusive"
+  },
+  {
+    "id": 26,
+    "title": "The Maze",
+    "desc": "The Maze is a Clow Card with the power to create elaborate labyrinths. It is aligned under the Earthy and under the power of the Sun, Cerberus, and western magic of China and England.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/e9/ClowMaze.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/9/99/SakuraMaze.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u8ff7",
+    "katakana": "\u30e1\u30fc\u30ba",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western magic",
+    "temperament": "Elusive"
+  },
+  {
+    "id": 27,
+    "title": "The Mirror",
+    "desc": "The Mirror is a Clow Card with the power to imitate a person's appearance. It is aligned under The Earthy and under the power of the Sun, Cerberus, and Western magic",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/ec/ClowMirror.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/69/SakuraMirror.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u93e1",
+    "katakana": "\u30df\u30e9\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 28,
+    "title": "The Mist",
+    "desc": "The Mist is one of the fifty-two Clow Cards in the anime.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/4/4f/ClowMist.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/ab/SakuraMist.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u9727",
+    "katakana": "\u30df\u30b9\u30c8",
+    "sign": "Moon",
+    "hierarchy": null,
+    "magicType": "Eastern Magic",
+    "temperament": "Destructive"
+  },
+  {
+    "id": 29,
+    "title": "The Move",
+    "desc": "The Move is one of the fifty-two Clow Cards in the anime. The Move is under The Windy.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/0/00/ClowMove.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/e3/SakuraMove.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u79fb",
+    "katakana": "\u30e0\u30fc\u30d6",
+    "sign": "Moon",
+    "hierarchy": "The Windy",
+    "magicType": "Eastern Magic",
+    "temperament": "Evasive"
+  },
+  {
+    "id": 30,
+    "title": "The Nothing",
+    "desc": "The Nothing is a Clow Card introduced in Cardcaptor Sakura Movie 2: The Sealed Card.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/22/ClowNothing.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/af/SakuraNothing.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u7121",
+    "katakana": "\u30ca\u30b7\u30f3\u30b0",
+    "sign": "Star",
+    "hierarchy": "Unknown",
+    "magicType": "Unknown",
+    "temperament": null
+  },
+  {
+    "id": 31,
+    "title": "The Power",
+    "desc": "The Power is a Clow Card with the power to grant immense physical strength. It is aligned under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/c/c8/ClowPower.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/65/SakuraPower.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u529b",
+    "katakana": "\u30d1\u30ef\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Mischievous; aggressive"
+  },
+  {
+    "id": 32,
+    "title": "The Rain",
+    "desc": "The Rain is one of the fifty-two Clow Cards in the anime. The Rain is under The Watery.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/b/b2/ClowRain.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/3/39/SakuraRain.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u96e8",
+    "katakana": "\u30ec\u30fc\u30f3",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": "Mischievous"
+  },
+  {
+    "id": 33,
+    "title": "The Return",
+    "desc": "The Return is one of the fifty-three Clow Cards in the anime.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/22/ClowReturn.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/c/c8/SakuraReturn.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u623b",
+    "katakana": "\u30ec\u30bf\u30fc\u30f3",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": null
+  },
+  {
+    "id": 34,
+    "title": "The Sand",
+    "desc": "The Sand is a Clow Card with the power to control and manipulate sand. It is aligned under The Earthy and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/1e/ClowSand.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/0/03/SakuraSand.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u7802",
+    "katakana": "\u30b5\u30f3\u30c9",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 35,
+    "title": "The Shadow",
+    "desc": "The Shadow is a Clow Card with the power to control and manipulate shadows. It is under The Light and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/c/c8/ClowShadow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/f/f5/SakuraShadow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5f71",
+    "katakana": "\u30b7\u30e3\u30c3\u30c9\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive; mischievous"
+  },
+  {
+    "id": 36,
+    "title": "The Shield",
+    "desc": "The Shield is a Clow Cards with the power to create magical barriers and force fields. It is under The Earthy and under the power of the Sun, Cerberus, and Western Magic",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/a7/ClowShield.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/1b/SakuraShield.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u76fe",
+    "katakana": "\u30b7\u30fc\u30eb\u30c9",
+    "sign": "Sun",
+    "hierarchy": "The Earthy",
+    "magicType": "Western Magic",
+    "temperament": null
+  },
+  {
+    "id": 37,
+    "title": "The Shot",
+    "desc": "The Shot is a Clow Card with the power to fire powerful bolts of energy at a given target. It is aligned under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/7/7c/ClowShot.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/84/SakuraShot.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6483",
+    "katakana": "\u30b7\u30e7\u30c3\u30c8",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 38,
+    "title": "The Silent",
+    "desc": "The Silent is a Clow Card with the power to manipulate silence. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/b/b7/ClowSilent.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/c/c6/SakuraSilent.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u9759",
+    "katakana": "\u30b5\u30a4\u30ec\u30f3\u30c8",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": "Elusive"
+  },
+  {
+    "id": 39,
+    "title": "The Sleep",
+    "desc": "The Sleep is a Clow Card with the power to put anyone to sleep. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/e8/ClowSleep.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/f/fa/SakuraSleep.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u7720",
+    "katakana": "\u30b9\u30ea\u30fc\u30d7",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": "Mischievous"
+  },
+  {
+    "id": 40,
+    "title": "The Snow",
+    "desc": "The Snow is a Clow Card with the power to create and control snow. It is aligned under the Watery and under the power of the Moon, Yue, and eastern magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/2a/ClowSnow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/7/7a/SakuraSnow.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u96ea",
+    "katakana": "\u30b9\u30ce\u30fc",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 41,
+    "title": "The Song",
+    "desc": "The Song is one of the fifty-two Clow Cards in the anime. The Song is under The Windy.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/4/46/ClowSong.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/4/4c/SakuraSong.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6b4c",
+    "katakana": "\u30bd\u30f3\u30b0",
+    "sign": "Moon",
+    "hierarchy": "The Windy",
+    "magicType": "Eastern Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 42,
+    "title": "The Storm",
+    "desc": "The Storm is one of the fifty-two Clow Cards in the anime. The Storm is aligned under The Windy.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/58/ClowStorm.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/65/SakuraStorm.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5d50",
+    "katakana": "\u30b9\u30c8\u30fc\u30e0",
+    "sign": "Moon",
+    "hierarchy": "The Windy",
+    "magicType": "Eastern Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 43,
+    "title": "The Sweet",
+    "desc": "The Sweet  is one of the fifty-two Clow Cards in the anime. The Sweet is aligned under The Light.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/e0/ClowSweet.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/68/SakuraSweet.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u7518",
+    "katakana": "\u30b9\u30a6\u30a3\u30fc\u30c8",
+    "sign": "Sun",
+    "hierarchy": "The Light",
+    "magicType": "Western Magic",
+    "temperament": "Mischievous; evasive"
+  },
+  {
+    "id": 44,
+    "title": "The Sword",
+    "desc": "The Sword is a Clow Card which acts as a powerful weapon to be wielded by its master. It is aligned under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/2/2c/ClowSword.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/ab/SakuraSword.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u5263",
+    "katakana": "\u30bd\u30fc\u30c9",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 45,
+    "title": "The Through",
+    "desc": "The Through is a Clow Card with the power to allow its user to pass through solid objects. It is under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/d0/ClowThrough.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/5a/SakuraThrough.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u629c",
+    "katakana": "\u30b9\u30eb\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": null
+  },
+  {
+    "id": 46,
+    "title": "The Thunder",
+    "desc": "The Thunder is a Clow Card with the power to control lighting and electricity. It is aligned under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/da/ClowThunder.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/c/c5/SakuraThunder.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u96f7",
+    "katakana": "\u30b5\u30f3\u30c0\u30fc",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 47,
+    "title": "The Time",
+    "desc": "The Time is a Clow Card with the power to manipulate time. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/6/62/ClowTime.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/f/f1/SakuraTime.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6642",
+    "katakana": "\u30bf\u30a4\u30e0",
+    "sign": "Moon",
+    "hierarchy": "The Dark",
+    "magicType": "Eastern Magic",
+    "temperament": "Elusive"
+  },
+  {
+    "id": 48,
+    "title": "The Twin",
+    "desc": "The Twin is a Clow Card with the power to duplicate objects. It is aligned under The Firey and under the power of the Sun, Cerberus, and Western Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/5a/ClowTwin.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/e9/SakuraTwin.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u53cc",
+    "katakana": "\u30c8\u30a6\u30a3\u30f3",
+    "sign": "Sun",
+    "hierarchy": "The Firey",
+    "magicType": "Western Magic",
+    "temperament": "Mischievous; aggressive"
+  },
+  {
+    "id": 49,
+    "title": "The Voice",
+    "desc": "The Voice is one of the fifty-two Clow Cards in the anime. The Voice is aligned under The Windy.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/d/d7/ClowVoice.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/a1/SakuraVoice.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u58f0",
+    "katakana": "\u30dc\u30a4\u30b9",
+    "sign": "Moon",
+    "hierarchy": "The Windy",
+    "magicType": "Eastern Magic",
+    "temperament": "Evasive"
+  },
+  {
+    "id": 50,
+    "title": "The Watery",
+    "desc": "The Watery is a Clow Card with the power to manipulate and control water. It is one of the four elemental cards, and as such it is one of the most powerful. Watery falls under the power of the Moon, Yue and under Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/5/55/ClowWatery.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/1c/SakuraWatery.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6c34",
+    "katakana": "\u30a6\u30a9\u30fc\u30bf\u30ea\u30fc",
+    "sign": "Moon",
+    "hierarchy": "N/A",
+    "magicType": "Eastern Magic",
+    "temperament": "Aggressive"
+  },
+  {
+    "id": 51,
+    "title": "The Wave",
+    "desc": "The Wave capture is never seen in the anime, but from its name, it has been surmised that it is a less-powerful version of Watery, probably able to control existing water near it, but unable to create new water magically like Watery can, capable of creating gigantic tidal waves.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/1/17/ClowWave.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/9/92/SakuraWave.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6ce2",
+    "katakana": "\u30a6\u30a7\u30fc\u30d6",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": null
+  },
+  {
+    "id": 52,
+    "title": "The Windy",
+    "desc": "The Windy is a Clow Card with the power to create and control wind. It is one of the four elemental cards, and as such it is one of the most powerful. Windy falls under the power of the Moon, Yue and under Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/a/ac/ClowWindy.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/8/8a/SakuraWindy.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u98a8",
+    "katakana": "\u30a6\u30a3\u30f3\u30c7\u30a3\u30fc",
+    "sign": "Moon",
+    "hierarchy": "N/A",
+    "magicType": "Eastern Magic",
+    "temperament": "Docile"
+  },
+  {
+    "id": 53,
+    "title": "The Wood",
+    "desc": "The Wood is a Clow Card with the power to grow and manipulate plants. It is aligned under the Watery and under the power of the Moon, Yue, and Eastern Magic.",
+    "clowCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/e/e8/ClowWood.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/7/7b/CCS_Clow_Card.jpg"
+    },
+    "sakuraCard": {
+      "front": "https://static.wikia.nocookie.net/ccs/images/3/3b/SakuraWood.jpg",
+      "back": "https://static.wikia.nocookie.net/ccs/images/3/3f/CCS_Sakura_Card.jpg"
+    },
+    "kanji": "\u6a39",
+    "katakana": "\u30a6\u30c3\u30c9",
+    "sign": "Moon",
+    "hierarchy": "The Watery",
+    "magicType": "Eastern Magic",
+    "temperament": "Docile"
+  }
+]
